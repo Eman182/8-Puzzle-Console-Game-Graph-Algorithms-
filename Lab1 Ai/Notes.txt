@@ -1,0 +1,1 @@
+we showed how algorithms operate by pseodocodes in report and comments in the code
