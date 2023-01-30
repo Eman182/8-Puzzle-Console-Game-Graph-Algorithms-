@@ -1,0 +1,2 @@
+Here the input is a string state like "9876540321" and output is the path to reach final state using different graph algorithms 
+like Breadth first search, Depth first search and A*.
